@@ -3,10 +3,10 @@
     <channel>
         <title>Wardrobe - Appcast</title>
         <item>
-            <title>Version 1.1.1</title>
+            <title>Version 1.1.2</title>
             <description>Appcast XML for Wardrobe to read version upgrades on the Play Store</description>
-            <pubDate>Thu, 26 Sept 2019 21:40:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.wardrobe.main" sparkle:version="1.1.1" sparkle:os="android" />
+            <pubDate>Thu, 30 Sept 2019 19:35:00 +0530</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.wardrobe.main" sparkle:version="1.1.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
